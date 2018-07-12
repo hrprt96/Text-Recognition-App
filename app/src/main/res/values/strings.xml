@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TextRecognition</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="permission_preferences">PERMISSION_PREFERENCES</string>
+    <string name="permission_camera">PERMISSION_CAMERA</string>
+    <string name="permission_storage">PERMISSION_CONTACTS</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
